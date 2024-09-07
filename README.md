@@ -24,3 +24,7 @@ The group username for public groups are @groupname. Simply key in "groupname".
 
 To run the application:
 python Username_Extractor.py and the usernames will be saved in a text file called usernames.txt
+
+
+Future Planned Improvements:
+- Find a way to get group chat username without creating and adding a bot to the group.
